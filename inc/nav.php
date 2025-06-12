@@ -20,15 +20,8 @@
                 <div class="collapse navbar-collapse mean-menu">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="javascript:void(0);" class="dropdown-toggle nav-link active">Demos</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?= BASE_URL ?>index.php" class="nav-link">Home Demo - 1</a></li>
-                                <li><a href="<?= BASE_URL ?>index-2.php" class="nav-link">Home Demo - 2</a></li>
-                                <li><a href="<?= BASE_URL ?>index-3.php" class="nav-link">Home Demo - 3</a></li>
-                                <li><a href="<?= BASE_URL ?>index-4.php" class="nav-link">Home Demo - 4</a></li>
-                                <li><a href="<?= BASE_URL ?>index-5.php" class="nav-link active">Home Demo - 5</a></li>
-                                <li><a href="<?= BASE_URL ?>index-6.php" class="nav-link">Home Demo - 6</a></li>
-                            </ul>
+                            <a href="<?= BASE_URL ?>index.php" class="nav-link">Home</a>
+                        </li>
                         </li>
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">Super Deals</a>

@@ -61,7 +61,7 @@
                                     <h4>
                                         <a href="<?= BASE_URL ?>product-details.php">Kids Dress</a>
                                     </h4>
-                                    <div class="price">$21.00 x 1</div>
+                                    <div class="price">21.00 x 1</div>
                                 </div>
                                 <button type="button">
                                     <i class="fa-solid fa-xmark"></i>

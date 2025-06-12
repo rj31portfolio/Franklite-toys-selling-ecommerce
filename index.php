@@ -35,7 +35,7 @@
         <!-- End Top Header Area -->
 
         <!-- Start Navbar Area -->
-       
+        <?php include_once 'inc/nav.php'; ?>
         <!-- End Navbar Area -->
 
         <!-- Start Mega Kids Banner Area -->
