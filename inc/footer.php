@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-footer-widget">
                     <a href="<?= BASE_URL ?>index.php" class="logo d-inline-block">
-                        <img src="<?= BASE_URL ?>assets/images/logo (2).png" alt="white-logo">
+                        <img src="<?= BASE_URL ?>assets/images/toys_logo.png" alt="white-logo" style="height:120px; width:auto;">
                     </a>
                     <p>We are committed to providing the highest-quality products that you can trust.</p>
                     <div class="info">
