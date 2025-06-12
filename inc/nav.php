@@ -24,47 +24,12 @@
                         </li>
                         </li>
                         <li class="nav-item">
-                            <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">Super Deals</a>
+                            <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">Shop</a>
                         </li>
                         <li class="nav-item">
-                            <a href="javascript:void(0);" class="dropdown-toggle nav-link">Pages</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?= BASE_URL ?>about.php" class="nav-link">About Us</a></li>
-                                <li><a href="<?= BASE_URL ?>order-tracking.php" class="nav-link">Order Tracking</a></li>
-                                <li><a href="<?= BASE_URL ?>my-account.php" class="nav-link">My Account</a></li>
-                                <li><a href="<?= BASE_URL ?>faq.php" class="nav-link">FAQ</a></li>
-                                <li class="nav-item">
-                                    <a href="javascript:void(0);" class="dropdown-toggle nav-link">My Account</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="<?= BASE_URL ?>profile-authentication.php" class="nav-link">Login</a></li>
-                                        <li><a href="<?= BASE_URL ?>profile-authentication.php" class="nav-link">Register</a></li>
-                                        <li><a href="<?= BASE_URL ?>forgot-password.php" class="nav-link">Forgot Password</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="<?= BASE_URL ?>privacy-policy.php" class="nav-link">Privacy Policy</a></li>
-                                <li><a href="<?= BASE_URL ?>terms-conditions.php" class="nav-link">Terms & Conditions</a></li>
-                                <li><a href="<?= BASE_URL ?>404.php" class="nav-link">404 Error Page</a></li>
-                            </ul>
+                            <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">About</a>
                         </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0);" class="dropdown-toggle nav-link">Shop</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">Shop Grid</a></li>
-                                <li><a href="<?= BASE_URL ?>shop-list.php" class="nav-link">Shop List</a></li>
-                                <li><a href="<?= BASE_URL ?>shop-grid-left-sidebar.php" class="nav-link">Shop Grid Left Sidebar</a></li>
-                                <li><a href="<?= BASE_URL ?>shop-list-left-sidebar.php" class="nav-link">Shop List Left Sidebar</a></li>
-                                <li><a href="<?= BASE_URL ?>shop-grid-right-sidebar.php" class="nav-link">Shop Grid Right Sidebar</a></li>
-                                <li><a href="<?= BASE_URL ?>shop-list-right-sidebar.php" class="nav-link">Shop List Right Sidebar</a></li>
-                                <li><a href="<?= BASE_URL ?>product-details.php" class="nav-link">Product Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0);" class="dropdown-toggle nav-link">Blog</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?= BASE_URL ?>blog.php" class="nav-link">Blog</a></li>
-                                <li><a href="<?= BASE_URL ?>blog-details.php" class="nav-link">Blog Details</a></li>
-                            </ul>
-                        </li>
+               
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>contact.php" class="nav-link">Contact</a>
                         </li>
