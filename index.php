@@ -21,18 +21,13 @@
     <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/style.css">
     <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/responsive.css">
 
-    <title>KidsMart - Baby & Kids Store eCommerce HTML Template</title>
+    <title>Franklite- E -Commerce</title>
     <link rel="icon" type="image/png" href="<?= BASE_URL ?>assets/images/favicon.png">
 </head>
 
     <body>
         <!--====== PRELOADER PART START ======-->
-        <div id="preloader">
-            <div class="preloader">
-                <span></span>
-                <span></span>
-            </div>
-        </div>
+       
         <!--====== PRELOADER PART ENDS ======-->
 
         <!-- Start Top Header Area -->

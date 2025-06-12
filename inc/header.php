@@ -13,7 +13,7 @@
             <div class="col-lg-3 col-md-12 d-none d-lg-block">
                 <div class="top-header-logo text-center">
                     <a href="<?= BASE_URL ?>index.php" class="d-inline-block">
-                        <img src="<?= BASE_URL ?>assets/images/logo.png" alt="logo">
+                        <img src="<?= BASE_URL ?>assets/images/logo (2).png" alt="logo">
                     </a>
                 </div>
             </div>
