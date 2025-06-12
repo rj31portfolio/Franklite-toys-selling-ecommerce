@@ -15,7 +15,7 @@
                             </div>
                             <span>HotLine Order</span>
                         </div>
-                        <a href="tel:(012)3456789">(012) 345 6789</a>
+                        <a href="tel:917428900713">+91-7428900713</a>
                     </div>
                 </div>
             </div>
@@ -103,8 +103,11 @@
                         </button>
                     </form>
                     <div class="social-links">
-                        <a href="#" target="_blank" class="d-inline-block facebook">
+                        <a href="https://www.facebook.com/people/Franklite/61567443384585/?mibextid=ZbWKwL" target="_blank" class="d-inline-block facebook">
                             <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                       <a href="https://www.instagram.com/franklite_/profilecard/?igsh=amo0N2d4dWhxYzMw" target="_blank" class="d-inline-block instagram">
+                        <i class="fa-brands fa-instagram"></i>
                         </a>
                         <a href="#" target="_blank" class="d-inline-block twitter">
                             <i class="fa-brands fa-twitter"></i>
@@ -123,7 +126,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4">
-                    <p>© 2023 <span>KidsMart</span>. All Rights Reserved</p>
+                    <p>© 2025 <span>Franklite</span>. All Rights Reserved</p>
                 </div>
                 <div class="col-lg-4">
                     <div class="payment-methods">

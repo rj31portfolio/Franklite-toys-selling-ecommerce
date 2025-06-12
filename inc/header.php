@@ -22,7 +22,7 @@
                     <div class="phone-number">
                         <img src="<?= BASE_URL ?>assets/images/icons/support2.png" alt="support">
                         <span class="d-block">Call Us Free</span>
-                        <a href="tel:+91458654528">+91 458 654 528</a>
+                        <a href="tel:+917428900713">+91-7428900713</a>
                     </div>
                     <div class="user-btn">
                         <a href="<?= BASE_URL ?>profile-authentication.php" class="d-inline-block">
