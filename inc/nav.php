@@ -24,10 +24,10 @@
                         </li>
                         </li>
                         <li class="nav-item">
-                            <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">Shop</a>
+                            <a href="<?= BASE_URL ?>shop.php" class="nav-link">Shop</a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?= BASE_URL ?>shop-grid.php" class="nav-link">About</a>
+                            <a href="<?= BASE_URL ?>about.php" class="nav-link">About</a>
                         </li>
                
                         <li class="nav-item">
