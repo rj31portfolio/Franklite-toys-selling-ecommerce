@@ -1,27 +1,30 @@
+<?php include 'database/config.php'; ?>
 <!DOCTYPE html>
 <html lang="zxx">
     
-<!-- Mirrored from thepixelcurve.com/html/kidsmart/kidsmart/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Jun 2025 04:10:38 GMT -->
+
+
 <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- Link of CSS Files -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/jquery-ui.min.css">
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-        <link rel="stylesheet" href="assets/css/scrollCue.min.css">
-        <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/all.min.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/responsive.css">
+    <!-- Link of CSS Files -->
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/scrollCue.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/meanmenu.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/slick.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/all.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/responsive.css">
 
-        <title>KidsMart - Baby & Kids Store eCommerce HTML Template</title>
-        <link rel="icon" type="image/png" href="assets/images/favicon.png">
-    </head>
+    <title>KidsMart - Baby & Kids Store eCommerce HTML Template</title>
+    <link rel="icon" type="image/png" href="<?= BASE_URL ?>assets/images/favicon.png">
+</head>
+
     <body>
         <!--====== PRELOADER PART START ======-->
         <div id="preloader">
@@ -33,7 +36,7 @@
         <!--====== PRELOADER PART ENDS ======-->
 
         <!-- Start Top Header Area -->
-        
+        <?php include_once 'inc/header.php'; ?>
         <!-- End Top Header Area -->
 
         <!-- Start Navbar Area -->
@@ -77,6 +80,7 @@
         <!-- End Product Quickview Modal -->
 
         <!-- Start Footer Area -->
-
+      <?php   include_once 'inc/footer.php'; ?>
         <!-- Footer Area end -->
+        
        
