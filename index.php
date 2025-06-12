@@ -21,13 +21,13 @@
     <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/style.css">
     <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/responsive.css">
 
-    <title>Franklite- E -Commerce</title>
+    <title> E Commerce</title>
     <link rel="icon" type="image/png" href="<?= BASE_URL ?>assets/images/favicon.png">
 </head>
 
     <body>
         <!--====== PRELOADER PART START ======-->
-       
+       <?php include_once 'componant/preloader.php'; ?>
         <!--====== PRELOADER PART ENDS ======-->
 
         <!-- Start Top Header Area -->
@@ -37,7 +37,7 @@
         <!-- Start Navbar Area -->
         <?php include_once 'inc/nav.php'; ?>
         <!-- End Navbar Area -->
-
+        <?php include_once 'componant/kidsbanner.php'; ?>
         <!-- Start Mega Kids Banner Area -->
         
         <!-- End Mega Kids Banner Area -->
@@ -71,7 +71,7 @@
         <!-- End Brands Area -->
 
         <!-- Start Product Quickview Modal -->
-       
+              
         <!-- End Product Quickview Modal -->
 
         <!-- Start Footer Area -->
