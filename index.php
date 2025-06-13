@@ -37,13 +37,13 @@
         <!-- Start Navbar Area -->
         <?php include_once 'inc/nav.php'; ?>
         <!-- End Navbar Area -->
-        <?php include_once 'componant/kidsbanner.php'; ?>
-        <!-- Start Mega Kids Banner Area -->
         
+        <!-- Start Mega Kids Banner Area -->
+        <?php include_once 'componant/kidsbanner.php'; ?>
         <!-- End Mega Kids Banner Area -->
 
         <!-- Start Features Area -->
-       
+        <?php include_once 'componant/features.php'; ?>
         <!-- End Features Area -->
 
         <!-- Start Featured Categories Area -->
