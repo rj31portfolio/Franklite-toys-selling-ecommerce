@@ -47,7 +47,7 @@
         <!-- End Features Area -->
 
         <!-- Start Featured Categories Area -->
-     
+       <?php include_once 'componant/featurecategories.php'; ?>
         <!-- End Featured Categories Area -->
 
         <!-- Start Featured Products Area -->
