@@ -51,7 +51,7 @@
         <!-- End Featured Categories Area -->
 
         <!-- Start Featured Products Area -->
-       
+       <?php include_once 'componant/feature-products.php'; ?>
         <!-- End Featured Products Area -->
 
         <!-- Start Categories Area -->
