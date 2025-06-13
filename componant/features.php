@@ -1,4 +1,4 @@
-   \
+   
         <div class="features-area padding-top pb-100">
             <div class="container">
                 <div class="row justify-content-center" data-cues="slideInUp" data-group="featuresContent">
