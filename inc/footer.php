@@ -126,7 +126,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4">
-                    <p>© 2025 <span>Franklite</span>. All Rights Reserved</p>
+                    <p>© 2025 <span>Nippon</span>. All Rights Reserved</p>
                 </div>
                 <div class="col-lg-4">
                     <div class="payment-methods">
