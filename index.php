@@ -1,3 +1,4 @@
+
 <?php include 'database/config.php'; ?>
 <!DOCTYPE html>
 <html lang="zxx">
@@ -55,7 +56,7 @@
         <!-- End Featured Products Area -->
 
         <!-- Start Categories Area -->
-       
+       <?php include_once 'componant/categories.php'; ?>
         <!-- End Categories Area -->
 
         <!-- Start Offer Area -->
