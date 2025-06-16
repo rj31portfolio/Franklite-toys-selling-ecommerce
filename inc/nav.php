@@ -22,18 +22,22 @@
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>index.php" class="nav-link">Home</a>
                         </li>
-                        </li>
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>shop.php" class="nav-link">Shop</a>
                         </li>
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>about.php" class="nav-link">About</a>
                         </li>
-               
                         <li class="nav-item">
                             <a href="<?= BASE_URL ?>contact.php" class="nav-link">Contact</a>
                         </li>
                     </ul>
+
+                    <!-- Right Side Buttons -->
+                    <div class="ms-auto d-flex gap-2">
+                        <a href="<?= BASE_URL ?>login.php" class="btn btn-outline-primary">Login</a>
+                        <a href="<?= BASE_URL ?>register.php" class="btn btn-primary">Register</a>
+                    </div>
                 </div>
             </nav>
         </div>

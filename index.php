@@ -1,4 +1,3 @@
-
 <?php include 'database/config.php'; ?>
 <!DOCTYPE html>
 <html lang="zxx">
