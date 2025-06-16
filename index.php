@@ -72,7 +72,7 @@
         <!-- End Brands Area -->
 
         <!-- Start Product Quickview Modal -->
-              
+               
         <!-- End Product Quickview Modal -->
 
         <!-- Start Footer Area -->
