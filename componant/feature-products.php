@@ -32,7 +32,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product1.jpg" alt="product-image">
+                                    <img src="product/p (1).png" alt="product-image">
                                 </a>
                                 <div class="discount">
                                     -25%
@@ -62,7 +62,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Frosted Flakes
+                                        Activity Ball
                                     </a>
                                 </h3>
                                 <div class="price">
@@ -75,7 +75,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product2.jpg" alt="product-image">
+                                    <img src="product/p (2).png" alt="product-image">
                                 </a>
                                 <div class="buttons-list d-flex align-items-center justify-content-center">
                                     <button type="button" class="d-inline-block">
@@ -99,7 +99,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Tiffin Box
+                                        BLAZE SHOT GUN
                                     </a>
                                 </h3>
                                 <div class="price">
@@ -112,7 +112,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product3.jpg" alt="product-image">
+                                    <img src="product/p (3).png" alt="product-image">
                                 </a>
                                 <div class="buttons-list d-flex align-items-center justify-content-center">
                                     <button type="button" class="d-inline-block">
@@ -136,7 +136,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Kids Chair
+                                        TABLE TENNIS RACET
                                     </a>
                                 </h3>
                                 <div class="price">
@@ -149,7 +149,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product4.jpg" alt="product-image">
+                                    <img src="product/p (4).png" alt="product-image">
                                 </a>
                                 <div class="discount">
                                     -25%
@@ -176,7 +176,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Tiffin Snacks
+                                        Baby Bath
                                     </a>
                                 </h3>
                                 <div class="price">
@@ -189,7 +189,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product5.jpg" alt="product-image">
+                                    <img src="product/p.png" alt="product-image">
                                 </a>
                                 <div class="discount">
                                     -25%
@@ -232,7 +232,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product6.jpg" alt="product-image">
+                                    <img src="product/BOWLING SET JUNIOR 10 PIN.png" alt="product-image">
                                 </a>
                                 <div class="discount">
                                     -25%
@@ -262,7 +262,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Kids Dress
+                                        BOWLING SET
                                     </a>
                                 </h3>
                                 <div class="price">
@@ -275,7 +275,7 @@
                         <div class="single-product-item text-center">
                             <div class="image position-relative">
                                 <a href="product-details.html" class="d-block">
-                                    <img src="assets/images/products/product7.jpg" alt="product-image">
+                                    <img src="product/hammer the shape 2.png" alt="product-image">
                                 </a>
                                 <div class="buttons-list d-flex align-items-center justify-content-center">
                                     <button type="button" class="d-inline-block">
@@ -299,7 +299,7 @@
                                 </div>
                                 <h3>
                                     <a href="product-details.html">
-                                        Cereoland Fruit
+                                        hammer
                                     </a>
                                 </h3>
                                 <div class="price">
