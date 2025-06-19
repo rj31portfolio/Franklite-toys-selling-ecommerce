@@ -69,7 +69,7 @@
                             <img src="assets/images/icons/icon9.png" alt="icon">
                             <p>
                                 <strong>
-                                    1901 Thornridge Cir. Shiloh, Hawaii 81063
+                                     D-189, near Samosa Chowk, DSIIDC Industrial Area, Sector 5, Bawana, New Delhi, Delhi, 110039, India
                                 </strong>
                             </p>
                             <span class="d-block">
@@ -106,13 +106,13 @@
                             <img src="assets/images/icons/icon11.png" alt="icon">
                             <div class="box">
                                 <span class="d-block">
-                                    Number 1
+                                    Contact Info
                                 </span>
-                                <a href="tel:(406)5550120">
-                                    (406) 555-0120
+                                <a href="tel:9310843500">
+                                    +91-9310843500
                                 </a>
                             </div>
-                            <div class="box">
+                       <!--     <div class="box">
                                 <span class="d-block">
                                     Number 2
                                 </span>
@@ -120,6 +120,7 @@
                                     (480) 555-0103
                                 </a>
                             </div>
+-->
                         </div>
                     </div>
                 </div>

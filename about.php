@@ -60,52 +60,49 @@
         </div>
         <!-- End Page Title Area -->
 
-         <!-- Start About Area -->
-        <div class="about-area ptb-125">
-            <div class="container">
-                <div class="row align-items-center" data-cues="slideInUp" data-group="aboutContent">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-image position-relative">
-                            <img src="assets/images/border-shape.png" alt="about-image">
-                            <img src="assets/images/about.jpg" alt="about-image">
-                        </div>
+        <!-- Start About Area -->
+<div class="about-area ptb-125">
+    <div class="container">
+        <div class="row align-items-center" data-cues="slideInUp" data-group="aboutContent">
+            <div class="col-lg-6 col-md-12">
+                <div class="about-image position-relative">
+                    <img src="assets/images/border-shape.png" alt="about-image">
+                    <img src="assets/images/about.jpg" alt="about-image">
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <div class="about-content">
+                    <div class="title position-relative">
+                        <img src="assets/images/cloud2.png" alt="cloud">
+                        <span class="d-block">
+                            About Us
+                        </span>
                     </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-content">
-                            <div class="title position-relative">
-                                <img src="assets/images/cloud2.png" alt="cloud">
-                                <span class="d-block">
-                                    Who We Are
-                                </span>
-                            </div>
-                            <h2>We are biggest baby fashion store</h2>
-                            <p>Lorem ipsum dolor amet, consectetur adicing elit, sed eiusmod tempor incididunt. Morbi purus nibh Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                            <ul class="features-list ps-0 mb-0 list-unstyled">
-                                <li class="position-relative">
-                                    <img src="assets/images/icons/icon12.png" alt="icon">
-                                    <p>
-                                        <strong>
-                                            Vivamus et felis vitae dolor 
-                                        </strong>
-                                        imperdiet pulvinar id eu dui. Donec ultrices sem nisl, ut porttitor purus scelerisque vel.
-                                    </p>
-                                </li>
-                                <li class="position-relative">
-                                    <img src="assets/images/icons/icon13.png" alt="icon">
-                                    <p>
-                                        <strong>
-                                            Vivamus et felis vitae dolor 
-                                        </strong>
-                                        imperdiet pulvinar id eu dui. Donec ultrices sem nisl, ut porttitor purus scelerisque vel.
-                                    </p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    <h2>Nippon Toys Industries – Trusted Toy Manufacturer in Delhi</h2>
+                    <p>With 3.9★ ratings from over 1,900 Google reviews, Nippon Toys Industries is a leading toy manufacturer based in Delhi. We are committed to delivering quality, creativity, and joy through our wide range of children’s toys.</p>
+                    <ul class="features-list ps-0 mb-0 list-unstyled">
+                        <li class="position-relative">
+                            <img src="assets/images/icons/icon12.png" alt="icon">
+                            <p>
+                                <strong>Innovative Toy Designs</strong>
+                                Our team constantly develops fun, safe, and imaginative products that spark creativity in every child.
+                            </p>
+                        </li>
+                        <li class="position-relative">
+                            <img src="assets/images/icons/icon13.png" alt="icon">
+                            <p>
+                                <strong>Quality & Trust</strong>
+                                With a strong presence in the toy industry, we prioritize product safety, durability, and customer satisfaction.
+                            </p>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
-        <!-- End About Area -->
+    </div>
+</div>
+<!-- End About Area -->
+
 
          <!-- Start More Than Shop Area -->
         <div class="more-that-shop-area pb-100">
